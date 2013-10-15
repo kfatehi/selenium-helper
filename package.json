@@ -1,0 +1,18 @@
+{
+  "name": "selenium-helper",
+  "version": "0.0.1",
+  "description": "Provides a download installer and runner",
+  "main": "selenium-helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keyvanfatehi/selenium-helper.git"
+  },
+  "keywords": [
+    "selenium"
+  ],
+  "author": "Keyvan Fatehi",
+  "license": "BSD"
+}
