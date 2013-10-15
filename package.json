@@ -1,7 +1,7 @@
 {
   "name": "selenium-helper",
-  "version": "0.0.1",
-  "description": "Provides a download installer and runner",
+  "version": "0.0.2",
+  "description": "Provides installer and runner helper methods for selenium",
   "main": "selenium-helper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
