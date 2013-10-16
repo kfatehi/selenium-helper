@@ -1,6 +1,6 @@
 {
   "name": "selenium-helper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Provides installer and runner helper methods for selenium",
   "main": "selenium-helper.js",
   "scripts": {
